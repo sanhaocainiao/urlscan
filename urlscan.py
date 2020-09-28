@@ -53,4 +53,4 @@ if __name__ == '__main__':
     banner()
     f1 = open('result.txt','w')
     f1.close()
-    #main()
+    main()
